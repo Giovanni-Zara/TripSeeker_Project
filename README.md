@@ -2,6 +2,7 @@
 
 # Overview
 This project is a comprehensive web application built for a university course on web languages and technologies. The application leverages HTML, Bootstrap, PHP, JavaScript, jQuery, CSS, and AJAX to create an interactive platform for users to manage and participate in trips.
+The project was a collaborative effort with my colleague [Giuseppe Misuraca](https://github.com/GiuseMisu).
 
 # Technologies Used
 HTML
