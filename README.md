@@ -98,4 +98,4 @@ index.css: Styles for the user's main page.
 
 
 
-This detailed structure provides a clear overview of the project's files and their functionalities, making it easier for contributors and users to navigate and understand the codebase.
+**This detailed structure provides a clear overview of the project's files and their functionalities, making it easier for contributors and users to navigate and understand the codebase.**
