@@ -17,7 +17,7 @@ AJAX
 
 **This detailed structure provides a clear overview of the project's files and their functionalities, making it easier for contributors and users to navigate and understand the codebase.**
 
-# Root Files:
+## Root Files:
 
 database.sql: Contains the code for creating the database tables.
 index.html: The homepage for users who are not logged in. Includes a carousel, search bar, owl carousel, site purpose information, and footer.
@@ -25,7 +25,7 @@ index.php: The main page accessible only to logged-in users. It includes the sam
 login.php: Contains the code for user login.
 logout.php: Contains the code for user logout.
 
-# Folders and Their Contents
+## Folders and Their Contents
 * CONTACT US:
   
 contact.html: Includes a form for submitting questions and a function to check the length of form fields.
