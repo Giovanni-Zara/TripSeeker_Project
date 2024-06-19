@@ -13,6 +13,10 @@ CSS
 AJAX
 
 # Project Structure and Description
+
+
+**This detailed structure provides a clear overview of the project's files and their functionalities, making it easier for contributors and users to navigate and understand the codebase.**
+
 Root Files
 database.sql: Contains the code for creating the database tables.
 index.html: The homepage for users who are not logged in. Includes a carousel, search bar, owl carousel, site purpose information, and footer.
@@ -98,4 +102,3 @@ index.css: Styles for the user's main page.
 
 
 
-**This detailed structure provides a clear overview of the project's files and their functionalities, making it easier for contributors and users to navigate and understand the codebase.**
