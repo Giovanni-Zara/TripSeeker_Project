@@ -20,7 +20,7 @@ index.php: The main page accessible only to logged-in users. It includes the sam
 login.php: Contains the code for user login.
 logout.php: Contains the code for user logout.
 # Folders and Their Contents
-CONTACT US
+* CONTACT US
 contact.html: Includes a form for submitting questions and a function to check the length of form fields.
 contact.js: JavaScript and AJAX for asynchronous form submission.
 send-email.php: Saves the question's content to the database.
